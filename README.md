@@ -8,8 +8,8 @@
   
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me
-Email: contact.lucamarins@gmail.com
+- 📫 How to reach me:
+Email me at contact.lucamarins@gmail.com
 
 <!---
 lucavalente93/lucavalente93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
