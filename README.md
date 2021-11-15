@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucavalente93
+- 👋 Hi, I’m @lucavalente93 (Luca Valente)
 
 - 👀 I’m interested in ...
   Learning code and, in this case, documeting my progress and use it on an visible portifolio. My "ultimate goal" right now is mastering all the learning curve of an webedeveloper.
