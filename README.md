@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucavalente93 (Luca Valente)
 
 - 👀 I’m interested in
-  Learning code and, in this case, documeting my progress and use it on an visible portifolio. My "ultimate goal" right now is "learn and master all the learning curve of an webedeveloper"
+  Learn programming and, in this case, documenting my progress and use it on an visible portifolio.
   
 - 🌱 I’m currently learning
   JavaScript and Python.
