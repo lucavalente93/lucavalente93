@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @lucavalente93 (Luca Valente)
 
 - 👀 I’m interested in
-  Learn programming and, in this case, documenting my progress and use it on an visible portifolio.
+  Learn programming and, in this case, documenting my progress and use it on a visible portifolio.
   
 - 🌱 I’m currently learning
-  JavaScript and Python.
+  Python and Rust.
   
 - 💞️ I’m looking to collaborate on ...
 
