@@ -4,7 +4,7 @@
   Learning programming and, in this case, documenting my progress and use it on a visible portfolio.
   
 - 🌱 I’m currently learning
-  Python and Rust.
+  Python and Ruby.
   
 - 💞️ I’m looking to collaborate on ...
 
