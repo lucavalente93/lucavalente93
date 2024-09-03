@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucavalente93 (Luca Valente)
 
-- 👀 I’m interested in
-  Learn programming and, in this case, documenting my progress and use it on a visible portifolio.
+- 👀 I’m interested in...
+  Learning programming and, in this case, documenting my progress and use it on a visible portfolio.
   
 - 🌱 I’m currently learning
   Python and Rust.
