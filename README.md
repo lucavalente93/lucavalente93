@@ -5,8 +5,6 @@
   
 - 🌱 I’m currently learning
   Python and Ruby.
-  
-- 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me:
 Email me at contact.lucamarins@gmail.com
