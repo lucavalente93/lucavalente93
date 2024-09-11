@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @lucavalente93 (Luca Valente). I'm a 24 years-old brazilian man and I'm studying CS in college, which is the equivalent to Associate Degree in Computer Science (in US).
+👋 Hi, I’m @lucavalente93 (Luca Valente). I'm a 24-year-old Brazilian studying Computer Science in college, which is equivalent to an Associate Degree in Computer Science in the US.
 
-- 👀 I’m interested in...
-  Learning programming and, in this case, documenting my progress and use it on a visible portfolio. Later on, the next step will be getting employed and putting skin in the game. 
-  
-- 🌱 I’m currently learning
-  Python and Ruby.
+👀 I’m interested in learning programming and documenting my progress as part of a visible portfolio. My next goal is to get employed and gain practical experience.
+
+🌱 I’m currently learning Python and Ruby.
 
 <!---
 lucavalente93/lucavalente93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
