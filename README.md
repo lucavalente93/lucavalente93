@@ -1,4 +1,4 @@
-👋 Hi, I’m @lucavalente93 (Luca Valente). I'm a 24-year-old Brazilian studying Computer Science in college.
+👋 Hi, I’m @lucavalente93 (Luca Valente). I'm a 24-year-old Brazilian studying S.E. in college.
 
 👀 I’m interested in learning programming and documenting my progress as part of a visible portfolio. My next goal is to get employed and gain practical experience.
 
